@@ -1,5 +1,3 @@
-# Dive-In Kubernetes: Access Management & Security Concepts
+**Note:** This repository is a fork created for a workshop, is no longer actively used, and will be archived/removed.
 
-## Beschreibungstext
-
-Ziel dieses Dive-In Workshops ist es, euch die Grundlagen von Access Management und Security Konzepte innerhalb von Kubernetes näherzubringen.
+---
